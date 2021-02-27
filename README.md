@@ -7,7 +7,7 @@
 我的前女友有
 1. 小A
 2. 小B
-学过的编程语言有 **html**、**css**、**js**、**c#**
+学过的编程语言有 `html`、`css`、`js`、`c#`
 来一段瞧瞧
 ```javascript
 console.log('这是js代码')
